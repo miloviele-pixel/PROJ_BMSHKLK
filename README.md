@@ -11,12 +11,12 @@ I've never used Fusion 360 before, only TinkerCAD for some other projects that I
 
 # Specifications
 BOM:
-8x Cherry MX Switches
-1x XIAO RP2040
-8x Blank DSA Keycaps
-4x M3x16 Bolt
-4x M3 Heatset
-8x Through-hole 1N4148 Diodes
+-8x Cherry MX Switches
+-1x XIAO RP2040
+-8x Blank DSA Keycaps
+-4x M3x16 Bolt
+-4x M3 Heatset
+-8x Through-hole 1N4148 Diodes
 
 Other:
 KMK Firmware
